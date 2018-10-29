@@ -1,7 +1,10 @@
 {
-  "name": "koa-logger",
+  "name": "koa-format-logger",
   "description": "Logging middleware for koa",
-  "repository": "koajs/logger",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Laumlin/koa-logger.git"
+  },
   "version": "3.2.0",
   "keywords": [
     "koa",
